@@ -23,7 +23,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aidamabdelkader&show_icons=true&locale=en" alt="aidamabdelkader" /></p>
 <img align ="right" width="386" alt="pic" src="https://user-images.githubusercontent.com/70656244/92018192-b081b300-ed09-11ea-8b1e-0f33ae3adf0f.gif">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aidamabdelkader&" alt="aidamabdelkader" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=aidamabdelkader&" alt="aidamabdelkader" /></p>
 
 
 
