@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Transactional Dashboard using Oracle**
 
-- 🌱 I’m currently learning **Advanced Big Data Tools: Hadoop, PIG , Hive, Spark, Data Engineering**
+- 🌱 I’m currently learning **Advanced Big Data Tools: Hadoop, PIG , Hive, Spark & Data Engineering: ETL**
 
 - 📫 How to reach me **aidamabdelkader1997@gmail.com**
 
