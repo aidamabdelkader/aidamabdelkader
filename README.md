@@ -21,6 +21,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aidamabdelkader&" alt="aidamabdelkader" /></p>
 
-<img align ="right" width="386" alt="pic" src="https://raw.githubusercontent.com/vinayak-mehta/present/master/docs/_static/demo.gif">
+<img align ="right" width="1000" alt="pic" src="https://raw.githubusercontent.com/vinayak-mehta/present/master/docs/_static/demo.gif">
 
 
