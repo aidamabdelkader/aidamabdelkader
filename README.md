@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Data Scientist from Egypt</h3>
 <img align ="right" width="386" alt="pic" src="https://user-images.githubusercontent.com/70656244/92018192-b081b300-ed09-11ea-8b1e-0f33ae3adf0f.gif">
 
-- 🔭 I’m currently working on **Transactional Dashboard**
+- 🔭 I’m currently working on **Transactional Dashboard using Oracle **
 
 - 🌱 I’m currently learning **Advanced Big Data Tools: Hadoop, PIG , Hive, Spark, Data Engineering**
 
