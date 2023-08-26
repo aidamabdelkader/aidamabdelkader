@@ -20,7 +20,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aidamabdelkader&show_icons=true&locale=en" alt="aidamabdelkader" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aidamabdelkader&" alt="aidamabdelkader" /></p>
-            
+
+
+<h4 align="left">Vistors Count:</h4>
+
+
  ![Visitor Count](https://profile-counter.glitch.me/aidamabdelkader/count.svg)
 
 
