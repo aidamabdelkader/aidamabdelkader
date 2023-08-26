@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Aida Mohamed</h1>
 <h3 align="center">A passionate Data Scientist from Egypt</h3>
-<img align ="right" width="386" alt="pic" src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif">
+<img align ="right" width="386" alt="pic" src="https://user-images.githubusercontent.com/70656244/92018192-b081b300-ed09-11ea-8b1e-0f33ae3adf0f.gif">
 
 - 🔭 I’m currently working on **Transactional Dashboard**
 
@@ -22,7 +22,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aidamabdelkader&show_icons=true&locale=en&layout=compact" alt="aidamabdelkader" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aidamabdelkader&show_icons=true&locale=en" alt="aidamabdelkader" /></p>
-<img align ="center" width="386" alt="pic" src="https://user-images.githubusercontent.com/70656244/92018192-b081b300-ed09-11ea-8b1e-0f33ae3adf0f.gif">
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aidamabdelkader&" alt="aidamabdelkader" /></p>
 
 
