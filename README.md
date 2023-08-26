@@ -18,7 +18,7 @@
 <br />
 
 
-<img align ="right" width="400" lenght = "1000" alt="pic" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWVnNHllMjF4am9qbHdydHA2eGtibGJ5ZGwzYjFwNnYxdDFrMTg2dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rGlAZysKBcjRCkAX7S/200.gif">
+<img align ="right" width="350" lenght = "1000" alt="pic" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWVnNHllMjF4am9qbHdydHA2eGtibGJ5ZGwzYjFwNnYxdDFrMTg2dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rGlAZysKBcjRCkAX7S/200.gif">
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aidamabdelkader&show_icons=true&locale=en&layout=compact" alt="aidamabdelkader" /></p>
