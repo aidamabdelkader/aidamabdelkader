@@ -20,6 +20,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aidamabdelkader&show_icons=true&locale=en" alt="aidamabdelkader" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aidamabdelkader&" alt="aidamabdelkader" /></p>
+            
+ ![Visitor Count](https://profile-counter.glitch.me/aidamabdelkader/count.svg)
+
 
 <img align ="right" width="1000" alt="pic" src="https://raw.githubusercontent.com/vinayak-mehta/present/master/docs/_static/demo.gif">
 
