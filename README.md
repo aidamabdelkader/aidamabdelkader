@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Aida Mohamed</h1>
 <h3 align="center">A passionate Data Scientist from Egypt</h3>
-<img align ="right" width="386" alt="pic" src="https://user-images.githubusercontent.com/70656244/92018192-b081b300-ed09-11ea-8b1e-0f33ae3adf0f.gif">
+<img align ="right" width="350" alt="pic" src="https://user-images.githubusercontent.com/70656244/92018192-b081b300-ed09-11ea-8b1e-0f33ae3adf0f.gif">
 
 - 🔭 I’m currently working on **Transactional Dashboard using Oracle**
 
