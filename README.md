@@ -22,7 +22,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aidamabdelkader&" alt="aidamabdelkader" /></p>
 
 
-<h4 align="left">Vistors Count:</h4>
+<h4 align="left">Vistors:</h4>
 
 
  ![Visitor Count](https://profile-counter.glitch.me/aidamabdelkader/count.svg)
