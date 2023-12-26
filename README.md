@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Advanced Big Data Tools: Hadoop, PIG , Hive, Spark & Data Engineering: ETL**
 
-#- 📫 How to reach me **aidamabdelkader1997@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
